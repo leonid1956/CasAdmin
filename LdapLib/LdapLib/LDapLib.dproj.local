@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.105,C:\MyWork\PROJECTS\DXE7\LdapLib\DHL_Logon\ActiveDirectoryHelpers.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.318,=C:\MyWork\PROJECTS\DXE7\LdapLib\DHL_Logon\ActiveDirectoryHelpers.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.817,=C:\MyWork\PROJECTS\DXE7\LdapLib\DHL_Logon\DMCEmulation.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.669,C:\MyWork\PROJECTS\DXE7\LdapLib\DHL_Logon\FileVersion.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.690,=C:\MyWork\PROJECTS\DXE7\LdapLib\DHL_Logon\FileVersion.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.177,=C:\MyWork\PROJECTS\DXE7\LdapLib\DHL_Logon\ActiveDirectoryHelpers.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.710,C:\MyWork\PROJECTS\DXE7\LdapLib\DHL_Logon\DMCEmulation.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.521,=C:\MyWork\PROJECTS\DXE7\LdapLib\DHL_Logon\ADSHLP.PAS</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.416,C:\MyWork\PROJECTS\DXE7\LdapLib\DHL_Logon\ADSHLP.PAS=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.618,=C:\MyWork\PROJECTS\DXE7\LdapLib\DHL_Logon\ADSHLP.PAS</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.668,=C:\MyWork\PROJECTS\DXE7\LdapLib\DHL_Logon\DMCEmulation.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.493,=C:\Users\lpylypch\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.596,=C:\Users\lpylypch\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.837,=C:\MyWork\PROJECTS\DXE7\LdapLib\DHL_Logon\FileVersion.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.149,=C:\MyWork\Projects\_Leonid\__SECURED\CasAdmin\LdapLib\LdapLib\uLkJSON.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.496,=C:\MyWork\PROJECTS\DXE7\LdapLib\DHL_Logon\ActiveDs_TLB.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.306,C:\MyWork\PROJECTS\DXE7\LdapLib\DHL_Logon\ActiveDs_TLB.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.708,=C:\MyWork\PROJECTS\DXE7\LdapLib\DHL_Logon\LogonDlg.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.986,C:\MyWork\PROJECTS\DXE7\LdapLib\DHL_Logon\LogonDlg.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.728,=C:\MyWork\PROJECTS\DXE7\LdapLib\DHL_Logon\UserSapParam.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.595,=C:\MyWork\PROJECTS\DXE7\LdapLib\DHL_Logon\ActiveDs_TLB.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.178,C:\MyWork\PROJECTS\DXE7\MyExe\MyExe.dproj=C:\Users\lpylypch\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.708,C:\MyWork\PROJECTS\DXE7\LdapLib\MyExe.dproj=C:\MyWork\PROJECTS\DXE7\LdapLib\LDapLib.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.129,=C:\MyWork\Projects\_Leonid\__SECURED\CasAdmin\LdapLib\LdapLib\AppParams.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.786,=C:\MyWork\PROJECTS\DXE7\LdapLib\DHL_Logon\DHLLogon.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.671,C:\MyWork\PROJECTS\DXE7\LdapLib\DHL_Logon\DHLLogon.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.642,=C:\MyWork\PROJECTS\DXE7\LdapLib\DHL_Logon\DHLLogon.pas</Transaction>
+  </Transactions>
+</BorlandProject>

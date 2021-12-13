@@ -1,0 +1,7 @@
+testVersion=N
+appName=C:\MyWork\Projects\_Leonid\__SECURED\CasAdmin\build\classes\
+appVersion=179
+connectStringUrl=https://czchowsint1586.prg-dc.dhl.com/app-login-api/api/connection-string/v1
+appId=a88ffaa6-6b9f-4b3e-9e98-d41fb737f62d
+login=LPYLYPCH
+password=

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="1.0" xmlns="http://java.sun.com/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/persistence http://java.sun.com/xml/ns/persistence/persistence_1_0.xsd">
+  <persistence-unit name="jdbc:oracle:thin:@2.48.44.48:1521:WLTESTPU" transaction-type="RESOURCE_LOCAL">
+    <provider>oracle.toplink.essentials.PersistenceProvider</provider>
+    <properties>
+      <property name="toplink.jdbc.user" value="cas_owner"/>
+      <property name="toplink.jdbc.password" value="caso098"/>
+      <property name="toplink.jdbc.url" value="jdbc:oracle:thin:@2.48.44.48:1521:WLTEST"/>
+      <property name="toplink.jdbc.driver" value="oracle.jdbc.OracleDriver"/>
+    </properties>
+  </persistence-unit>
+</persistence>

@@ -1,0 +1,5 @@
+1.3	31.12.2009	Wersja finalna do testowania produkcyjnego.
+			
+1.1	23.06.2009	Wersja do pracy dyplomowej inzynierskiej.
+
+1.0	20.10.2008	Poczatek pracy nad nowa wersja CasAdmin.
